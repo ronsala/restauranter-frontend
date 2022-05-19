@@ -49,6 +49,6 @@
     "@tailwindcss/postcss7-compat": "^2.1.2",
     "autoprefixer": "^9",
     "cypress": "^8.6.0",
-    "postcss": "^8.0.0"
+    "postcss": "^8.4.14"
   }
 }
